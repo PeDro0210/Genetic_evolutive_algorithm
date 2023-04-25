@@ -3,3 +3,5 @@ Soo, this algorithm follows the principals of the evolutive algorithm, with an a
 
 
 #any questions you could ask me for them, I'm not a good programmer btw linktr.ee/__pedro021__
+
+you can change the music on created_music and music (that's the point of the program)
